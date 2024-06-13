@@ -1,0 +1,118 @@
+/* Custom CSS */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #ffe6e6; /* Light red background for the body */
+}
+
+.navbar {
+    background-color: #ff0000 !important; /* Red */
+}
+
+.navbar-brand {
+    font-weight: bold;
+    color: #ffffff !important; /* White color for contrast */
+}
+
+.navbar-nav .nav-link {
+    color: #ffffff !important; /* White color for contrast */
+}
+
+.navbar-nav .nav-link:hover {
+    color: #ff9999 !important; /* Light red */
+}
+
+footer {
+    background: #8b0000; /* Dark red */
+    padding: 40px 0;
+}
+
+footer .text-uppercase {
+    font-weight: bold;
+}
+
+footer .text-dark:hover {
+    color: #ff9999 !important; /* Light red */
+    text-decoration: none;
+}
+
+footer .bg-dark {
+    background-color: #8b0000 !important; /* Dark red */
+}
+
+footer .text-white {
+    color: #ffffff !important;
+}
+
+/* Logo Area */
+.logo { width:300px; height:300px
+    /* Add styles for logo if needed */
+}
+
+.footer-area {
+    background: #ff0000; /* Red */
+}
+
+.footer-area h5 {
+    color: white !important;
+}
+
+.footer-area p {
+    color: white !important;
+}
+
+.footer-area a {
+    color: #ff9999 !important; /* Light red */
+}
+
+.theme-button {
+    background-color: #ff0000; /* Red */
+    border: 0px;
+    border-radius: 0px;
+    padding: 10px 50px;
+    color: #ffffff !important; /* White text */
+}
+
+.theme-button:hover {
+    background-color: #ff9999; /* Light red */
+    padding: 10px 50px;
+}
+
+.common-theme-button {
+    background-color: #ff0000; /* Red */
+    border: 0px;
+    border-radius: 0px;
+    color: #ffffff !important; /* White text */
+}
+
+.common-theme-button:hover {
+    background-color: #ff9999; /* Light red */
+}
+
+.hero-left-text {
+    margin-top: 100px;
+    color: #ff0000; /* Red text */
+}
+
+.card-img-top {
+    height: 250px;
+    padding: 20px;
+}
+
+.card {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 1px solid #ff0000; /* Red border */
+}
+
+.cart-imge {
+    width: 100px;
+    height: 100px;
+}
+
+.text-red {
+    color: #ff0000; /* Red text */
+}
+
+.bg-red {
+    background-color: #ff0000 !important; /* Red background */
+}
